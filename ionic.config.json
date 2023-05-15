@@ -1,0 +1,7 @@
+{
+  "name": "appvideojuegosfaican",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
